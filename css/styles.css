@@ -4,3 +4,9 @@ body{
     height: 100vh;
     margin: 0;
 }
+
+label{
+    display: block;
+    background-color: #fff;
+    margin: 0.5rem 0;
+}
